@@ -1,0 +1,1 @@
+{ "name": "tableau-sessions", "version": "0.1.0", "description": "Tableau de bord de mes sessions Claude : en attente de mon retour, en cours, résultat prêt.", "types": "./types/index.d.ts" }

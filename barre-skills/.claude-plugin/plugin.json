@@ -1,0 +1,1 @@
+{ "name": "barre-skills", "version": "0.1.0", "description": "Barre au-dessus du champ de saisie : mes skills et plugins par catégorie, et ceux utilisés dans la session.", "types": "./types/index.d.ts" }

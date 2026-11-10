@@ -1,0 +1,8 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "alexisdechiara" },
+  "plugins": [
+    { "name": "tableau-sessions", "source": "./tableau-sessions", "description": "Tableau de bord de mes sessions Claude : en attente de mon retour, en cours, résultat prêt." },
+    { "name": "barre-skills", "source": "./barre-skills", "description": "Barre au-dessus du champ de saisie : skills et plugins par catégorie, et ceux utilisés dans la session." }
+  ]
+}
